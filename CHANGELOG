@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to this research synthesis document set will be recorded in this file.
+
+## [1.0.0] - 2026-05-27
+
+### Added
+- Initial research synthesis for: **MTHFR gene mutation**
+- Audience: **clinician**
+- Verified sources: **16**
+- Unverified sources: **0** (none flagged in references.bib)
+- Files generated:
+  - `README.md` — topic overview, audience note, citation guidance
+  - `references.bib` — BibTeX citations for all 16 verified sources
+  - `CHANGELOG` — this file
+  - `executive-summary.md` — 600–900 word clinician-facing synthesis
+  - `clinical-deep-dive.md` — comprehensive clinical reference (1500–2500 words)
+  - `patient-guide.md` — plain-language patient communication tool
